@@ -139,7 +139,7 @@ Revenue peaks in Q4, so retention campaigns should go out before the holiday sea
 ## 8. Acknowledgments
 
 - Dataset: Daqing Chen, UCI Machine Learning Repository (CC BY 4.0)
-- This project was built following [Mansi Goel's tutorial series](https://www.youtube.com/) on YouTube (replace with the actual link). Analysis, write-up, and any modifications are my own.
+- This project was built following [Mansi Goel's tutorial series](https://www.youtube.com/watch?v=LQa0SiuZfhA) on YouTube (replace with the actual link). Analysis, write-up, and any modifications are my own.
 
 > **Note:** This project was built by following Mansi Goel's end-to-end SQL, Python, and Power BI tutorial series (link in Acknowledgments). I reproduced the full pipeline to practice the workflow and tools.
 
