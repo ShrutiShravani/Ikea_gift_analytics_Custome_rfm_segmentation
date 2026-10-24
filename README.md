@@ -143,6 +143,3 @@ Revenue peaks in Q4, so retention campaigns should go out before the holiday sea
 
 > **Note:** This project was built by following Mansi Goel's end-to-end SQL, Python, and Power BI tutorial series (link in Acknowledgments). I reproduced the full pipeline to practice the workflow and tools.
 
----
-
-## 8. Repository Structure
